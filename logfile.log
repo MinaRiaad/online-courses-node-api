@@ -1,0 +1,1060 @@
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'filename' of undefinedCannot read property 'filename' of undefined","stack":"TypeError: Cannot read property 'filename' of undefined\n    at F:\\online courses-node-api\\routes\\users.js:25:51\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"file is not definedfile is not defined","stack":"ReferenceError: file is not defined\n    at F:\\online courses-node-api\\routes\\users.js:25:53\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"avatar":{"stringValue":"\"{}\"","kind":"string","value":{},"path":"avatar","reason":null}},"_message":"User validation failed","level":"error","message":"User validation failed: avatar: Cast to string failed for value \"{}\" at path \"avatar\"User validation failed: avatar: Cast to string failed for value \"{}\" at path \"avatar\"","stack":"ValidationError: User validation failed: avatar: Cast to string failed for value \"{}\" at path \"avatar\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model._handleIndex (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:979:14)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:920:22)\n    at model.Document (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:139:12)\n    at model.Model (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\model.js:107:12)\n    at new model (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\model.js:4706:15)\n    at F:\\online courses-node-api\\routes\\users.js:25:10\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"avatar":{"properties":{"message":"Path `avatar` is required.","type":"required","path":"avatar"},"kind":"required","path":"avatar"}},"_message":"User validation failed","level":"error","message":"User validation failed: avatar: Path `avatar` is required.User validation failed: avatar: Path `avatar` is required.","stack":"ValidationError: User validation failed: avatar: Path `avatar` is required.\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2394:17\n    at F:\\online courses-node-api\\node_modules\\mongoose\\lib\\schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot access 'user' before initializationCannot access 'user' before initialization","stack":"ReferenceError: Cannot access 'user' before initialization\n    at F:\\online courses-node-api\\routes\\users.js:49:71\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\validateObjectId.js:7:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:12:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:14:21)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"level":"error","message":"Cannot read property 'map' of undefinedCannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at module.exports (F:\\online courses-node-api\\middlewares\\validateMedia.js:2:15)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at multerMiddleware (F:\\online courses-node-api\\node_modules\\multer\\lib\\make-middleware.js:18:41)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:12:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)"}
+{"level":"error","message":"Cannot read property 'map' of undefinedCannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at module.exports (F:\\online courses-node-api\\middlewares\\validateMedia.js:2:15)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at multerMiddleware (F:\\online courses-node-api\\node_modules\\multer\\lib\\make-middleware.js:18:41)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:12:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefinedCannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at module.exports (F:\\online courses-node-api\\middlewares\\validateMedia.js:2:15)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at multerMiddleware (F:\\online courses-node-api\\node_modules\\multer\\lib\\make-middleware.js:18:41)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:12:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'indexOf' of nullCannot read property 'indexOf' of null","stack":"TypeError: Cannot read property 'indexOf' of null\n    at arrayRemove (F:\\online courses-node-api\\node_modules\\multer\\lib\\file-appender.js:4:17)\n    at FileAppender.removePlaceholder (F:\\online courses-node-api\\node_modules\\multer\\lib\\file-appender.js:46:19)\n    at F:\\online courses-node-api\\node_modules\\multer\\lib\\make-middleware.js:121:20\n    at fileFilter (F:\\online courses-node-api\\utils\\storage.js:20:7)\n    at wrappedFileFilter (F:\\online courses-node-api\\node_modules\\multer\\index.js:44:7)\n    at Busboy.<anonymous> (F:\\online courses-node-api\\node_modules\\multer\\lib\\make-middleware.js:114:7)\n    at Busboy.emit (events.js:311:20)\n    at Busboy.emit (F:\\online courses-node-api\\node_modules\\busboy\\lib\\main.js:38:33)\n    at PartStream.<anonymous> (F:\\online courses-node-api\\node_modules\\busboy\\lib\\types\\multipart.js:213:13)\n    at PartStream.emit (events.js:311:20)\n    at HeaderParser.<anonymous> (F:\\online courses-node-api\\node_modules\\dicer\\lib\\Dicer.js:51:16)\n    at HeaderParser.emit (events.js:311:20)\n    at HeaderParser._finish (F:\\online courses-node-api\\node_modules\\dicer\\lib\\HeaderParser.js:68:8)\n    at SBMH.<anonymous> (F:\\online courses-node-api\\node_modules\\dicer\\lib\\HeaderParser.js:40:12)\n    at SBMH.emit (events.js:311:20)\n    at SBMH._sbmh_feed (F:\\online courses-node-api\\node_modules\\streamsearch\\lib\\sbmh.js:159:14)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at F:\\online courses-node-api\\routes\\courses.js:30:37\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at F:\\online courses-node-api\\routes\\courses.js:30:37\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at F:\\online courses-node-api\\routes\\courses.js:30:37\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at F:\\online courses-node-api\\routes\\courses.js:30:37\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at F:\\online courses-node-api\\routes\\courses.js:30:37\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\[object Object]","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\[object Object]","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"media.0":{"stringValue":"\"{\n  fieldname: 'media',\n  originalname: '2.jpg',\n  encoding: '7bit',\n  mimetype: 'image/jpeg',\n  destination: 'public/media/',\n  filename: '1592354393594-2.jpg',\n  path: 'public\\\\media\\\\1592354393594-2.jpg',\n  size: 228522\n}\"","kind":"string","value":{"fieldname":"media","originalname":"2.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"public/media/","filename":"1592354393594-2.jpg","path":"public\\media\\1592354393594-2.jpg","size":228522},"path":"media.0","reason":null,"$originalErrorPath":"media"},"media":{"stringValue":"\"[\n  {\n    fieldname: 'media',\n    originalname: '2.jpg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: 'public/media/',\n    filename: '1592354393594-2.jpg',\n    path: 'public\\\\media\\\\1592354393594-2.jpg',\n    size: 228522\n  },\n  {\n    fieldname: 'media',\n    originalname: '1.jpg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: 'public/media/',\n    filename: '1592354393606-1.jpg',\n    path: 'public\\\\media\\\\1592354393606-1.jpg',\n    size: 834830\n  }\n]\"","kind":"Array","value":[{"fieldname":"media","originalname":"2.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"public/media/","filename":"1592354393594-2.jpg","path":"public\\media\\1592354393594-2.jpg","size":228522},{"fieldname":"media","originalname":"1.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"public/media/","filename":"1592354393606-1.jpg","path":"public\\media\\1592354393606-1.jpg","size":834830}],"path":"media","reason":"media"}},"_message":"Course validation failed","level":"error","message":"Course validation failed: media.0: Cast to string failed for value \"{\n  fieldname: 'media',\n  originalname: '2.jpg',\n  encoding: '7bit',\n  mimetype: 'image/jpeg',\n  destination: 'public/media/',\n  filename: '1592354393594-2.jpg',\n  path: 'public\\\\media\\\\1592354393594-2.jpg',\n  size: 228522\n}\" at path \"media\", media: Cast to Array failed for value \"[\n  {\n    fieldname: 'media',\n    originalname: '2.jpg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: 'public/media/',\n    filename: '1592354393594-2.jpg',\n    path: 'public\\\\media\\\\1592354393594-2.jpg',\n    size: 228522\n  },\n  {\n    fieldname: 'media',\n    originalname: '1.jpg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: 'public/media/',\n    filename: '1592354393606-1.jpg',\n    path: 'public\\\\media\\\\1592354393606-1.jpg',\n    size: 834830\n  }\n]\" at path \"media\"Course validation failed: media.0: Cast to string failed for value \"{\n  fieldname: 'media',\n  originalname: '2.jpg',\n  encoding: '7bit',\n  mimetype: 'image/jpeg',\n  destination: 'public/media/',\n  filename: '1592354393594-2.jpg',\n  path: 'public\\\\media\\\\1592354393594-2.jpg',\n  size: 228522\n}\" at path \"media\", media: Cast to Array failed for value \"[\n  {\n    fieldname: 'media',\n    originalname: '2.jpg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: 'public/media/',\n    filename: '1592354393594-2.jpg',\n    path: 'public\\\\media\\\\1592354393594-2.jpg',\n    size: 228522\n  },\n  {\n    fieldname: 'media',\n    originalname: '1.jpg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: 'public/media/',\n    filename: '1592354393606-1.jpg',\n    path: 'public\\\\media\\\\1592354393606-1.jpg',\n    size: 834830\n  }\n]\" at path \"media\"","stack":"ValidationError: Course validation failed: media.0: Cast to string failed for value \"{\n  fieldname: 'media',\n  originalname: '2.jpg',\n  encoding: '7bit',\n  mimetype: 'image/jpeg',\n  destination: 'public/media/',\n  filename: '1592354393594-2.jpg',\n  path: 'public\\\\media\\\\1592354393594-2.jpg',\n  size: 228522\n}\" at path \"media\", media: Cast to Array failed for value \"[\n  {\n    fieldname: 'media',\n    originalname: '2.jpg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: 'public/media/',\n    filename: '1592354393594-2.jpg',\n    path: 'public\\\\media\\\\1592354393594-2.jpg',\n    size: 228522\n  },\n  {\n    fieldname: 'media',\n    originalname: '1.jpg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: 'public/media/',\n    filename: '1592354393606-1.jpg',\n    path: 'public\\\\media\\\\1592354393606-1.jpg',\n    size: 834830\n  }\n]\" at path \"media\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model._handleIndex (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:979:14)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:920:22)\n    at model.Document (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:139:12)\n    at model.Model (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\model.js:107:12)\n    at new model (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\model.js:4706:15)\n    at F:\\online courses-node-api\\routes\\courses.js:37:12\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"filesNames is not definedfilesNames is not defined","stack":"ReferenceError: filesNames is not defined\n    at F:\\online courses-node-api\\routes\\courses.js:38:15\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\undefined","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"ok":0,"code":9,"codeName":"FailedToParse","name":"MongoError","level":"error","message":"Cannot specify both new=true and remove=true; 'remove' always returns the deleted documentCannot specify both new=true and remove=true; 'remove' always returns the deleted document","stack":"MongoError: Cannot specify both new=true and remove=true; 'remove' always returns the deleted document\n    at MessageStream.messageHandler (F:\\online courses-node-api\\node_modules\\mongodb\\lib\\cmap\\connection.js:263:20)\n    at MessageStream.emit (events.js:311:20)\n    at processIncomingData (F:\\online courses-node-api\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (F:\\online courses-node-api\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at doWrite (_stream_writable.js:441:12)\n    at writeOrBuffer (_stream_writable.js:425:5)\n    at MessageStream.Writable.write (_stream_writable.js:316:11)\n    at Socket.ondata (_stream_readable.js:714:22)\n    at Socket.emit (events.js:311:20)\n    at addChunk (_stream_readable.js:294:12)\n    at readableAddChunk (_stream_readable.js:275:11)\n    at Socket.Readable.push (_stream_readable.js:209:10)\n    at TCP.onStreamRead (internal/stream_base_commons.js:186:23)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'media' of nullCannot read property 'media' of null","stack":"TypeError: Cannot read property 'media' of null\n    at F:\\online courses-node-api\\routes\\courses.js:67:22\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Course.findByIdAndRemoveRemove is not a functionCourse.findByIdAndRemoveRemove is not a function","stack":"TypeError: Course.findByIdAndRemoveRemove is not a function\n    at F:\\online courses-node-api\\routes\\courses.js:63:31\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\validateObjectId.js:7:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:12:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Course.findByIdAndRemoveRemove is not a functionCourse.findByIdAndRemoveRemove is not a function","stack":"TypeError: Course.findByIdAndRemoveRemove is not a function\n    at F:\\online courses-node-api\\routes\\courses.js:63:31\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\validateObjectId.js:7:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:12:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'media' of nullCannot read property 'media' of null","stack":"TypeError: Cannot read property 'media' of null\n    at F:\\online courses-node-api\\routes\\courses.js:66:22\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'media' of nullCannot read property 'media' of null","stack":"TypeError: Cannot read property 'media' of null\n    at F:\\online courses-node-api\\routes\\courses.js:67:22\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\[object Object]","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\[object Object]'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:14:21)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:14:21)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"level":"error","message":"Cannot read property 'map' of undefinedCannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at deleteFiles (F:\\online courses-node-api\\utils\\storage.js:35:11)\n    at F:\\online courses-node-api\\routes\\courses.js:33:7\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\validateMedia.js:4:9)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at multerMiddleware (F:\\online courses-node-api\\node_modules\\multer\\lib\\make-middleware.js:18:41)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefinedCannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at deleteFiles (F:\\online courses-node-api\\utils\\storage.js:35:11)\n    at F:\\online courses-node-api\\routes\\courses.js:33:7\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\validateMedia.js:4:9)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at multerMiddleware (F:\\online courses-node-api\\node_modules\\multer\\lib\\make-middleware.js:18:41)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:526:11)\n    at ServerResponse.header (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (F:\\online courses-node-api\\node_modules\\express\\lib\\response.js:170:12)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:14:21)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"someId is not definedsomeId is not defined","stack":"ReferenceError: someId is not defined\n    at F:\\online courses-node-api\\routes\\users.js:12:46\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\admin.js:9:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (F:\\online courses-node-api\\middlewares\\auth.js:12:12)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\online courses-node-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\online courses-node-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\online courses-node-api\\node_modules\\express\\lib\\router\\index.js:281:22"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'files' of nullCannot read property 'files' of null","stack":"TypeError: Cannot read property 'files' of null\n    at F:\\online courses-node-api\\routes\\courses.js:41:24\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"stringValue":"\"[object Object]\"","kind":"ObjectId","value":"[object Object]","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"","stack":"CastError: Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"\n    at model.Query.exec (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"stringValue":"\"[object Object]\"","kind":"ObjectId","value":"[object Object]","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"","stack":"CastError: Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"\n    at model.Query.exec (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"stringValue":"\"[object Object]\"","kind":"ObjectId","value":"[object Object]","path":"_id","reason":{},"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"","stack":"CastError: Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Course\"\n    at model.Query.exec (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"Cannot read property 'pull' of undefinedCannot read property 'pull' of undefined","stack":"TypeError: Cannot read property 'pull' of undefined\n    at F:\\online courses-node-api\\routes\\courses.js:62:28\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"level":"error","message":"course.save is not a functioncourse.save is not a function","stack":"TypeError: course.save is not a function\n    at F:\\online courses-node-api\\routes\\courses.js:64:18\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"points":{"stringValue":"\"1022\"","kind":"Object","value":"1022","path":"points"}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Object failed for value \"1022\" at path \"points\"User validation failed: points: Cast to Object failed for value \"1022\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Object failed for value \"1022\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1022:10)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:138:13)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:66:14\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errors":{"points":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"points","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","level":"error","message":"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"","stack":"ValidationError: User validation failed: points: Cast to Number failed for value \"NaN\" at path \"points\"\n    at model.Document.invalidate (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:2574:32)\n    at model.$set (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\document.js:1246:12)\n    at model.set [as points] (F:\\online courses-node-api\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:149:19)\n    at F:\\online courses-node-api\\routes\\users.js:68:14\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\undefined","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\undefined","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\undefined","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\undefined","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"unlink","path":"F:\\online courses-node-api\\public\\media\\undefined","level":"error","message":"ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'","stack":"Error: ENOENT: no such file or directory, unlink 'F:\\online courses-node-api\\public\\media\\undefined'"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}
+{"message":"listening at port 8000","level":"info"}
+{"message":"Connected to database...","level":"info"}

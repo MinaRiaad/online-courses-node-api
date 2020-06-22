@@ -1,0 +1,7 @@
+{
+    "jwtPrivateKey": "unsecureKey",
+    "db": "mongodb://localhost/online-courses",
+    "port": 8000,
+    "requiresAuth": true,
+    "publicPath":"public/media/"
+}
