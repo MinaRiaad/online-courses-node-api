@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "unsecureKey",
+    "db":"courses_db"
+}
