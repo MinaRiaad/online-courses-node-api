@@ -7,6 +7,7 @@ const error = require('../middlewares/error');
 
 module.exports = function(app) {
   app.use(express.json());
+  app.use(express.urlencoded());
   app.use(express.static('public'))
   app.use('/api/categories', categories);
   app.use('/api/courses', courses);
