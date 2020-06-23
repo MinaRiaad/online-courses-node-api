@@ -29,10 +29,9 @@ router.post(
   [auth, admin, upload.array("media"), media],
   async (req, res) => {
     const { error } = validate(req.body);
-    if (error) 
-      return res.send(error.details[0].message);
+    if (error) return res.status(400).send(error.details[0].message);
     let course = await Course.findOne({ name: req.body.name });
-    if (course) 
+    if (course)
       return res.status(400).send("course with this name is already exist !");
     const files = getFilesNames(req.files);
     course = new Course({ ...req.body, media: files });
@@ -41,16 +40,16 @@ router.post(
   }
 );
 
-router.post('/:id/register',[auth,validateObjectId],async(req,res)=>{
-    const course = await Course.findById(req.params.id);
-    if (!course)
-      return res.status(400).send("the course with provided ID is not found");
-    course.registeredUsers.push(req.user._id);
-    await course.save();
-    res.send(course);
+router.post("/:id/register", [auth, validateObjectId], async (req, res) => {
+  const course = await Course.findById(req.params.id);
+  if (!course)
+    return res.status(400).send("the course with provided ID is not found");
+  course.registeredUsers.push(req.user._id);
+  await course.save();
+  res.send(course);
 });
 
-router.post('/:id/finish',[auth,validateObjectId],async(req,res)=>{
+router.post("/:id/finish", [auth, validateObjectId], async (req, res) => {
   const course = await Course.findById(req.params.id);
   if (!course)
     return res.status(400).send("the course with provided ID is not found");
@@ -59,28 +58,34 @@ router.post('/:id/finish',[auth,validateObjectId],async(req,res)=>{
   res.send(course);
 });
 
-router.post('/:id/cancel',[auth,validateObjectId],async(req,res)=>{
-    let course = await Course.findById(req.params.id);
-    if (!course)
-      return res.status(400).send("the course with provided ID is not found");
-    course.registeredUsers.pull({_id:req.user._id});
-    await course.save();
-    res.send(course);
-});
-
-router.put("/:id", [auth, admin, validateObjectId], async (req, res) => {
-  const { error } = validate(req.body);
-  if (error) return res.send(error.details[0].message);
-
-  const course = await Course.findOneAndUpdate(
-    { _id: req.params.id },
-    req.body,
-    { new: true }
-  );
+router.post("/:id/cancel", [auth, validateObjectId], async (req, res) => {
+  let course = await Course.findById(req.params.id);
   if (!course)
-    return res.status(400).send("The course with given ID is not found");
+    return res.status(400).send("the course with provided ID is not found");
+  course.registeredUsers.pull({ _id: req.user._id });
+  await course.save();
   res.send(course);
 });
+
+router.put(
+  "/:id",
+  [auth, admin, validateObjectId, upload.array("media"), media],
+  async (req, res) => {
+    const { error } = validate(req.body);
+    if (error) return res.send(error.details[0].message);
+    let course=await Course.findById(req.params.id);
+    if (!course)
+      return res.status(400).send("The course with given ID is not found");
+    deleteFiles(course.media);
+    const files = getFilesNames(req.files);
+    course = await Course.findOneAndUpdate(
+      { _id: req.params.id },
+      { ...req.body, media: files },
+      { useFindAndModify: false }
+    );
+    res.send(course);
+  }
+);
 
 router.delete("/:id", [auth, admin, validateObjectId], async (req, res) => {
   const course = await Course.findOneAndRemove(

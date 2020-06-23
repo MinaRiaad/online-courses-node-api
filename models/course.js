@@ -28,7 +28,6 @@ const courseSchema = new mongoose.Schema(
     }],
     categories:[{
         type:mongoose.Schema.Types.ObjectId,
-        required:true,
         ref:'Category'
     }],
     registeredUsers:[{
@@ -53,7 +52,7 @@ function validateCourse(course) {
   const schema = Joi.object({
     name: Joi.string().min(2).max(50).required(),
     description: Joi.string().min(2).max(255).required(),
-    categories:Joi.objectId().required(),
+    categories:Joi.required(),
     points: Joi.number().min(1).required(),
   });
   return schema.validate(course);

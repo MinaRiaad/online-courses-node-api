@@ -15,14 +15,10 @@ const storage = multer.diskStorage({
 });
 
 const fileFilter =async function (req, file, cb) {
-    const {error}=validate(req.body);
-    let course = await Course.findOne({ name: req.body.name });
     if (!file.originalname.toLowerCase().match(/\.(jpg|jpeg|png|mp4)$/)) {
       req.valid=false;
       cb(null,false)
     }
-    else if(error||course)
-      cb(null,false)
     else
       cb(null,true)
     
