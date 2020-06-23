@@ -1,13 +1,14 @@
 const multer = require("multer");
 const { promisify } = require("util");
-const { Course, validate } = require("../models/course");
 const fs = require("fs");
 const config=require('config');
+const path= require("path");
+
 
 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, `${config.get('publicPath')}`);
+    cb(null, path.resolve(__dirname,'..','public','media'));
   },
   filename: function (req, file, cb) {
     cb(null, Date.now() + "-" + file.originalname);
