@@ -12,6 +12,8 @@ require('./startup/prod')(app);
 const port=process.env.PORT || config.get('port') ;
 app.listen(port,()=>{
   winston.info(`listening at port ${port}` )
+
 })
+
 
 module.exports = app;

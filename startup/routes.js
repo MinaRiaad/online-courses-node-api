@@ -6,11 +6,14 @@ const auth = require("../routes/auth");
 const error = require("../middlewares/error");
 const cors = require('cors');
 const bodyParser = require('body-parser');
+const  path  = require("path");
+
+
 
 module.exports = function (app) {
   app.use(express.json());
   app.use(cors())
-  app.use(express.static("public"));
+  app.use(express.static(path.join(__dirname,'..',"public")));
   app.use("/api/categories", categories);
   app.use("/api/courses", courses);
   app.use("/api/users", users);
