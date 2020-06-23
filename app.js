@@ -10,7 +10,7 @@ require('./startup/config')();
 require('./startup/prod')(app);
 
 const port=process.env.PORT || config.get('port') ;
-app.listen(8000,()=>{
+app.listen(port,()=>{
   winston.info(`listening at port ${port}` )
 })
 
